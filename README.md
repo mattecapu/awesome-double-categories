@@ -1,5 +1,5 @@
 # Awesome Double Categories
-A list of works and resources about double category theory, with particular focus on applications.
+A list of works and resources about double category theory, with a particular focus on applications.
 PR welcome!
 
 ## Introductions & references
@@ -14,6 +14,10 @@ PR welcome!
 * Grandis, Parè, [_Adjoints for double categories_](http://www.numdam.org/article/CTGDC_2004__45_3_193_0.pdf),2004
 * Myers, [_String diagrams for double categories and (virtual) equipments_](https://arxiv.org/abs/1612.02762), 2016
 
+### Equipments
+* Shulman, [_Equipments_](https://golem.ph.utexas.edu/category/2009/11/equipments.html), 2009
+* Shulman, [_Framed bicategories and monoidal fibrations_](https://arxiv.org/abs/0706.1286), 2009
+
 ### Grothendieck constructions
 * Patterson, [_Grothendieck construction for double categories_](https://topos.site/blog/2022/05/grothendieck-construction-for-double-categories/), 2022
 * Cruttwell, Lambert, Pronk, Szyld, [_Double Fibrations_](https://arxiv.org/abs/2205.15240), 2022
@@ -23,10 +27,8 @@ PR welcome!
 * Clarke, [_The double category of lenses_](https://bryceclarke.github.io/The_Double_Category_Of_Lenses_Phd_Thesis.pdf), 2022
 * Capucci, [_Seeing double through dependent optics_](https://arxiv.org/abs/2204.10708), 2022
 
-## Open systems theory
+### Open systems theory
 * Courser, [_Open systems: a double categorical perspective_](https://arxiv.org/abs/2008.02394), 2020
 * Patterson, [_Decorated cospans via the double Grothendieck construction_](https://topos.site/blog/2022/05/decorated-cospans-via-the-grothendieck-construction/), 2022
 * Baez, Courser, Vasilakopoulou, [_Structured versus Decorated Cospans_](Structured versus Decorated Cospans), 2022
 * Myers, [_Categorical systems theory_](http://davidjaz.com/Papers/DynamicalBook.pdf), 2021
-
-
