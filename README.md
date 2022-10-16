@@ -30,5 +30,5 @@ PR welcome!
 ### Open systems theory
 * Courser, [_Open systems: a double categorical perspective_](https://arxiv.org/abs/2008.02394), 2020
 * Patterson, [_Decorated cospans via the double Grothendieck construction_](https://topos.site/blog/2022/05/decorated-cospans-via-the-grothendieck-construction/), 2022
-* Baez, Courser, Vasilakopoulou, [_Structured versus Decorated Cospans_](Structured versus Decorated Cospans), 2022
+* Baez, Courser, Vasilakopoulou, [_Structured versus Decorated Cospans_](https://compositionality-journal.org/papers/compositionality-4-3/pdf), 2022
 * Myers, [_Categorical systems theory_](http://davidjaz.com/Papers/DynamicalBook.pdf), 2021
