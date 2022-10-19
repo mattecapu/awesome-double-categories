@@ -1,6 +1,6 @@
 # Awesome Double Categories
 A list of works and resources about double category theory, with a particular focus on applications.
-PR welcome!
+(If you'd like to add more, edit [this nLab page](https://ncatlab.org/nlab/show/applications+of+double+category+theory))
 
 ## Introductions & references
 * The Catsters, [_Double categories_](https://www.youtube.com/watch?v=kiCZiSA2W3Q) (short video)
